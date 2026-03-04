@@ -54,6 +54,9 @@ The objective of this project is to understand static website hosting, IAM user 
 ### S3 Bucket Created
 ![S3 Bucket](screenshots/s3-bucket-created.png)
 
+### Public Access Configuration
+![Block Public Access Disabled](screenshots/block-public-access-off.png)
+
 ### Static Website Hosting Enabled
 ![Static Website](screenshots/static-website-enabled.png)
 
